@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Este proyecto implementa un sistema de búsqueda semántica para artículos científicos utilizando el dataset de arXiv. El sistema permite realizar consultas en lenguaje natural y obtener los artículos más relevantes basados en la similitud de embeddings generados por un modelo de lenguaje preentrenado. Además, se incluyen métricas para evaluar la calidad de las búsquedas y se visualizan los embeddings utilizando PCA.
+Este proyecto implementa un sistema de búsqueda semántica para artículos científicos utilizando el dataset de arXiv. El sistema permite realizar consultas en lenguaje natural y obtener los artículos más relevantes basados en la similitud de embeddings generados por un modelo de lenguaje preentrenado. Además, se visualizan los embeddings utilizando PCA.
 
 ## Instrucciones de instalación
 
