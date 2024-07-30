@@ -52,6 +52,10 @@ Este proyecto implementa un sistema de búsqueda semántica para artículos cien
 
 4. Incluye métricas para evaluar la calidad de las búsquedas, como precisión y recuperación, y realiza pruebas con diferentes consultas para demostrar la efectividad del sistema.
 
+## Carpeta `data`
+
+La carpeta `data` contiene un fragmento del dataset para facilitar pruebas y desarrollo. Asegúrate de cargar este fragmento en tu entorno de trabajo para ejecutar el notebook si no deseas descargar el dataset completo.
+
 ## Enlace al notebook en Google Colab
 
 [Abrir en Colab](https://colab.research.google.com/github/JoseADios/SemanticSearchPython/blob/main/SemanticSearch.ipynb)
