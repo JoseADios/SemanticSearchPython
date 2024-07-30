@@ -52,6 +52,10 @@ Este proyecto implementa un sistema de búsqueda semántica para artículos cien
 
 4. Incluye métricas para evaluar la calidad de las búsquedas, como precisión y recuperación, y realiza pruebas con diferentes consultas para demostrar la efectividad del sistema.
 
+## Enlace al notebook en Google Colab
+
+[Abrir en Colab](https://colab.research.google.com/github/JoseADios/SemanticSearchPython/blob/main/SemanticSearch.ipynb)
+
 ## Enlace al video explicativo
 
 [Enlace al video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
