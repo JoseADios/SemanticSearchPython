@@ -62,4 +62,4 @@ Este proyecto implementa un sistema de búsqueda semántica para artículos cien
 
 ---
 
-Este proyecto fue desarrollado como parte del curso de Inteligencia Artificial, dirigido por el Profesor Lizandro Ramírez.
+Este proyecto fue desarrollado como parte de la asignatura de Inteligencia Artificial, dirigido por el Profesor Lizandro Ramírez.
