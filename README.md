@@ -1,16 +1,16 @@
-# Proyecto Final: Sistema de Búsqueda Semántica para Artículos Científicos
+# 🌟 Proyecto Final: Sistema de Búsqueda Semántica para Artículos Científicos
 
-## Introducción
+## 📚 Introducción
 
-Este proyecto implementa un sistema de búsqueda semántica para artículos científicos utilizando el dataset de arXiv. El sistema permite realizar consultas en lenguaje natural y obtener los artículos más relevantes basados en la similitud de embeddings generados por un modelo de lenguaje preentrenado. Además, se visualizan los embeddings utilizando PCA.
+Este proyecto implementa un sistema de búsqueda semántica para artículos científicos utilizando el dataset de arXiv. El sistema permite realizar consultas en lenguaje natural y obtener los artículos más relevantes basados en la similitud de embeddings generados por un modelo de lenguaje preentrenado. Además, se incluyen métricas para evaluar la calidad de las búsquedas y se visualizan los embeddings utilizando PCA.
 
-## Instrucciones de instalación
+## 🛠️ Instrucciones de instalación
 
 ### Prerrequisitos
 
-1. Python 3.6 o superior
-2. Una cuenta en Kaggle para descargar el dataset de arXiv
-3. Google Colab (opcional, pero recomendado)
+1. 🐍 Python 3.6 o superior
+2. 🔑 Una cuenta en Kaggle para descargar el dataset de arXiv
+3. 📝 Google Colab (opcional, pero recomendado)
 
 ### Instalación
 
@@ -37,7 +37,7 @@ Este proyecto implementa un sistema de búsqueda semántica para artículos cien
     !echo "Y" | unzip arxiv.zip
     ```
 
-## Guía de uso
+## 📖 Guía de uso
 
 1. Abre el notebook `notebook.ipynb` en Google Colab o en tu entorno de Jupyter Notebook preferido.
 
@@ -52,18 +52,18 @@ Este proyecto implementa un sistema de búsqueda semántica para artículos cien
 
 4. Incluye métricas para evaluar la calidad de las búsquedas, como precisión y recuperación, y realiza pruebas con diferentes consultas para demostrar la efectividad del sistema.
 
-## Carpeta `data`
+## 📂 Carpeta `data`
 
 La carpeta `data` contiene un fragmento del dataset para facilitar pruebas y desarrollo. Asegúrate de cargar este fragmento en tu entorno de trabajo para ejecutar el notebook si no deseas descargar el dataset completo.
 
-## Enlace al notebook en Google Colab
+## 🔗 Enlace al notebook en Google Colab
 
-[Abrir en Colab](https://colab.research.google.com/github/JoseADios/SemanticSearchPython/blob/main/SemanticSearch.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoseADios/SemanticSearchPython/blob/main/SemanticSearch.ipynb)
 
-## Enlace al video explicativo
+## 🎥 Enlace al video explicativo
 
 [Enlace al video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
-Este proyecto fue desarrollado como parte de la asignatura de Inteligencia Artificial, dirigido por el Profesor Lizandro Ramírez.
+Este proyecto fue desarrollado como parte del curso de Inteligencia Artificial, dirigido por el Profesor Lizandro Ramírez.
