@@ -65,7 +65,7 @@ La carpeta `data` contiene un fragmento del dataset para facilitar pruebas y des
 [Enlace al video](https://drive.google.com/file/d/19G0y2eF87CUkK0CcZR_EhdTF2H2NJFHP/view?usp=sharing)
 
 ## 📂 Recursos Adicionales
-- [Carpeta de Google Drive con todos los ejercicios de la asignatura]([https://drive.google.com/file/d/19G0y2eF87CUkK0CcZR_EhdTF2H2NJFHP/view?usp=sharing](https://drive.google.com/drive/folders/1bObllwqdMiCxQxY-UkQ8R4dOYcY_V6kv?usp=sharing))
+- [Carpeta de Google Drive con todos los ejercicios de la asignatura](https://drive.google.com/drive/folders/1bObllwqdMiCxQxY-UkQ8R4dOYcY_V6kv?usp=sharing)
 
 
 ---
