@@ -64,6 +64,10 @@ La carpeta `data` contiene un fragmento del dataset para facilitar pruebas y des
 
 [Enlace al video](https://drive.google.com/file/d/19G0y2eF87CUkK0CcZR_EhdTF2H2NJFHP/view?usp=sharing)
 
+## 📂 Recursos Adicionales
+- [Carpeta de Google Drive con todos los ejercicios de la asignatura](https://drive.google.com/file/d/19G0y2eF87CUkK0CcZR_EhdTF2H2NJFHP/view?usp=sharing)
+
+
 ---
 
 Este proyecto fue desarrollado como parte del curso de Inteligencia Artificial, dirigido por el Profesor Lizandro Ramírez.
